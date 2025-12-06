@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UNDERTAKER
 - 👀 I’m interested in ...cybersecurity
-- 🌱 I’m currently learning ...python bases
+- 🌱 I’m currently learning ...computer netwoking ,linux advanced command lines , pentesting , digital forensics
 - 💞️ I’m looking to collaborate on ...nothing
 - 📫 How to reach me ... you can't
 
